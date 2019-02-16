@@ -34,7 +34,7 @@ namespace PadawansTask13
 
         public string GetInfo()
         {
-            return "Surname: " + Surname + " Age: " + Age;
+            return "Surname: " + Surname + " Age: ", + Age;
         }
     }
 }
